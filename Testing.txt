@@ -1,2 +1,0 @@
-hello from terraform
-this file was created automatically
